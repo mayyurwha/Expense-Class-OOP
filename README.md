@@ -35,7 +35,7 @@ get_expense_by_id: Retrieves an expense from the database by ID.
 get_expense_by_title: Retrieves expenses from the database with a specific title (returns a list).
 to_dict: Returns a list of dictionaries representing each expense in the database.
 
-Implementation:
+Implementation: The Test_alt_sch.py file is used to check the functionality of the alt_sch_exam script with the below steps:
 Creates an instance of ExpenseDatabase.
 Adds two expenses ("Groceries" and "Rent") to the database.
 Updates the amount of the "Groceries" expense.
